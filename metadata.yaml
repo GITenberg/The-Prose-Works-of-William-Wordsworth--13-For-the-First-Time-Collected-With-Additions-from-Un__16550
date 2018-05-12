@@ -1,0 +1,38 @@
+_repo: The-Prose-Works-of-William-Wordsworth--13-For-the-First-Time-Collected-With-Additions-from-Un__16550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wordsworth, William
+    birthdate: 1770
+    deathdate: 1850
+    gutenberg_agent_id: '2879'
+    url: http://www.gutenberg.org/2009/agents/2879
+    wikipedia: http://en.wikipedia.org/wiki/William_Wordsworth
+  editor:
+    agent_name: Grosart, Alexander Balloch
+    aliases:
+    - Grosart, Alexander B.
+    - Grosart, A. B. (Alexander Balloch)
+    birthdate: 1827
+    deathdate: 1899
+    gutenberg_agent_id: '6786'
+    url: http://www.gutenberg.org/2009/agents/6786
+description: v. 1. Political and ethical.--v.2. Aesthetical and literary.--v.3. Critical
+  and ethical.
+gutenberg_issued: '2005-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century'
+- !lcc 'PR'
+title: "The Prose Works of William Wordsworth\r\nFor the First Time Collected, With\
+  \ Additions from Unpublished Manuscripts. In Three Volumes."
+url: http://www.gutenberg.org/ebooks/16550
