@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6786
 description: v. 1. Political and ethical.--v.2. Aesthetical and literary.--v.3. Critical
   and ethical.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16550#The-Prose-Works-of-William-Wordsworth--13-For-the-First-Time-Collected-With-Additions-from-Un_
 gutenberg_issued: '2005-08-19'
 gutenberg_type: Text
 identifiers:
